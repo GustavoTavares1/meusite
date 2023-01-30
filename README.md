@@ -1,2 +1,2 @@
 # meusite
-criando o meu primeiro  site utilizando HTML e PHP
+criando o meu primeiro  site utilizando HTML e PHP no Apache 2
